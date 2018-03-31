@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SimpleClock/Timer2ViewController.swift"
-            timestampString = "541002000.570029"
+            timestampString = "544203553.24094"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "140"
-            endingLineNumber = "140"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "EndTimer(_:)"
             landmarkType = "7">
          </BreakpointContent>
